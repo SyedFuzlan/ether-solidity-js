@@ -64,6 +64,3 @@ node deploy.js
 ## License
 
 MIT
-
----
-*Workshop by [Your Name or Organization]*
